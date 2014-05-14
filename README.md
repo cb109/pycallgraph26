@@ -5,7 +5,7 @@ This is a modified version of the pycallgraph module (based on v1.01) to make it
 
 Pycallgraph visualizes function calls as graph images and is great for profiling an application (or parts of it).
 
-It has been created by [Gerald Kaszuba](http://geraldkaszuba.com) and is avalaible for Python 2.7+ and 3.3+ from: http://pycallgraph.slowchop.com/en/master/
+It has been created by [Gerald Kaszuba](http://geraldkaszuba.com) and is available for Python 2.7+ and 3.3+ from: http://pycallgraph.slowchop.com/en/master/
 
 Modifications:
 --------------
