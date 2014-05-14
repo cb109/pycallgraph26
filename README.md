@@ -11,7 +11,7 @@ Modifications:
 --------------
 - Added indices to all format commands.
 - Downloaded and included 2.6 versions of *ordereddict* and *argparse*.
-- Fixed some impport statements.
+- Fixed some import statements.
 - Removed all unneeded files of the package.
 
 Installation:
