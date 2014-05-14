@@ -1,8 +1,10 @@
 **pycallgraph26**
 -------------
 
-This is a modified version of the pycallgraph module to make it work in Python 2.6.
+This is a modified version of the pycallgraph module (based on v1.01) to make it work in Python 2.6.
+
 Pycallgraph visualizes function calls as graph images and is great for profiling an application (or parts of it).
+
 It has been created by Gerald Kaszuba and is avalaible for Python 2.7+ and 3.3+ from: http://pycallgraph.slowchop.com/en/master/
 
 Modifications:
@@ -14,7 +16,8 @@ Modifications:
 
 Installation:
 -------------
-Download and extract.
+- Make sure you have **graphviz** installed and the dot command can be found in your PATH environment variable.
+- Download and extract *pycallgraph26*.
 
 Commandline usage:
 ------------------
@@ -22,7 +25,6 @@ Commandline usage:
 - On a bash use **launch_pycallgraph**.
 - On a Windows commandline use **python launch_pycallgraph** or **launch_pycallgraph.bat**
 - Use commandline flags as described here: http://pycallgraph.slowchop.com/en/master/guide/command_line_usage.html#command-line-usage
-
 
 
 In-code usage:
